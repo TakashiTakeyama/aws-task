@@ -73,3 +73,4 @@ gem 'unicorn'
 gem 'mini_racer', platforms: :ruby
 gem 'bcrypt_pbkdf'
 gem 'ed25519'
+gem 'bundler' 
